@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello VisialStudioWorld!\n";
 
-    std::cout << "Hellow New branch\n";
+    std::cout << " New　branch chenge\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
